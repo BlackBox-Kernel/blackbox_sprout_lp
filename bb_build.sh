@@ -33,9 +33,9 @@ nocol='\033[0m'         # Default
 # Tweakable Options Below
 export ARCH=arm
 export SUBARCH=arm
-export KBUILD_BUILD_USER="kunalkene1797"
-export KBUILD_BUILD_HOST="Perilous-Beast"
-export CROSS_COMPILE=~/4.9.3-a7/bin/arm-cortex_a7-linux-gnueabihf-
+export KBUILD_BUILD_USER="KunalKene1797"
+export KBUILD_BUILD_HOST="BlackServer"
+export CROSS_COMPILE=~/arm-cortex_a7-linux-gnueabihf-linaro_4.9/bin/arm-cortex_a7-linux-gnueabihf-
 
 # Compilation Scripts Are Below
 compile_kernel ()
